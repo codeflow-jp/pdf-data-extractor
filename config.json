@@ -1,0 +1,6 @@
+{
+    "input_pdf": "sample.pdf",
+    "output_excel": "output.xlsx",
+    "mode": "table",
+    "sheet_name": "抽出データ"
+}
