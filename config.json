@@ -1,6 +1,8 @@
 {
     "input_pdf": "sample.pdf",
+    "input_folder": "pdf_input",
     "output_excel": "output.xlsx",
     "mode": "table",
-    "sheet_name": "抽出データ"
+    "sheet_name": "抽出データ",
+    "batch": true
 }
